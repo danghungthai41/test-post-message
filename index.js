@@ -1,0 +1,1 @@
+console.log('Imported Js file into html')
